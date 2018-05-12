@@ -1,0 +1,32 @@
+_repo: Principles-of-Mining--Valuation-Organization-and-Administration_26697
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hoover, Herbert
+    aliases:
+    - United States President (1929-1933)
+    - Hoover, Herbert Clark
+    birthdate: 1874
+    deathdate: 1964
+    gutenberg_agent_id: '1662'
+    url: http://www.gutenberg.org/2009/agents/1662
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_Hoover
+description: ''
+gutenberg_issued: '2008-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26697'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mineral industries -- Finance'
+- !lcsh 'Mining engineering'
+- !lcsh 'Mines and mineral resources'
+- !lcc 'TN'
+title: 'Principles of Mining: Valuation, Organization and Administration'
+url: http://www.gutenberg.org/ebooks/26697
